@@ -1,0 +1,33 @@
+[
+    {
+        "name":"iphone",
+        "price":154,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"phone",
+        "price":155,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"headphone",
+        "price":1434,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"jio",
+        "price":154,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"realme",
+        "price":15400,
+        "feature":true,
+        "company":"apple"
+    }
+    
+]
